@@ -31,6 +31,9 @@ standard schema.
    [コア2.3k v3](https://anacreondjt.gitlab.io/docs/coredeck/), itself a modified
    version of [core6000](https://core6000.neocities.org/); adjusted
    definitions, formatting, removed images and audio
+1. [real\_estate\_housing.csv](./lists/real_estate_housing.csv): a list of vocabulary
+   relating to real estate, housing, renting, etc.; includes casual terms and formal
+   terms you would find in things like contracts
 
 ## License
 
