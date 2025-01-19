@@ -29,11 +29,14 @@ def main():
     parser.add_argument("csv", help="csv file to parse")
     args = parser.parse_args()
 
+    terms = set() # Used to check for duplicates.
     with open(args.csv, "r") as f:
         reader = csv.reader(f)
         for row in reader:
             v = Vocabulary.from_list(row)
-            # do something with `v`
+            assert v.vocab not in terms
+            terms.add(v.vocab)
+            # do something else with `v`
 
 if __name__ == "__main__":
     main()
