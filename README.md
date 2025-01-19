@@ -34,6 +34,9 @@ standard schema.
 1. [real\_estate\_housing.csv](./lists/real_estate_housing.csv): a list of vocabulary
    relating to real estate, housing, renting, etc.; includes casual terms and formal
    terms you would find in things like contracts
+1. [software\_engineering.csv](./lists/software_engineering.csv): a list of vocabulary
+   relating to software engineering; many terms are in kana, but it's useful to see
+   how such terms might be used in context
 
 ## License
 
