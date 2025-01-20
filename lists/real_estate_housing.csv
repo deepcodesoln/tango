@@ -1,5 +1,5 @@
 不動産,ふどうさん,Real estate,不動産業界は今、景気が良いです。,The real estate industry is currently doing well.
-賃貸,ちんたい,Rent/lease,賃貸のアパートを探しています。,I am looking for a rental apartment.
+賃貸,ちんたい,Rent/lease,この賃貸マンションは最先端の設備と都心へのアクセスが良好で、ビジネスパーソンに人気があります。,This rental apartment is popular among business people for its state-of-the-art facilities and good access to the city center.
 賃貸契約,ちんたいけいやく,Rental agreement/lease contract,賃貸契約を更新する必要があります。,I need to renew my rental agreement.
 物件,ぶっけん,Property,その物件は駅から近いです。,That property is close to the station.
 アパート,アパート,Apartment,新しいアパートに引っ越しました。,I moved into a new apartment.
@@ -22,7 +22,7 @@
 駐車場,ちゅうしゃじょう,Parking lot,このマンションには専用駐車場があります。,This apartment building has a private parking lot.
 ペット可,ぺっとか,Pets-allowed,この物件はペット可です。,This property allows pets.
 近隣,きんりん,Neighborhood,近隣にはスーパーや学校があります。,There are supermarkets and schools in the neighborhood.
-大家,おおや,Landlord,大家さんはとても親切です。,The landlord is very kind.
+大家,おおや,Landlord,この地区では、大家さんが地域の清掃活動を積極的に推進しています。,"In this area, the landlords are actively promoting neighborhood clean-up activities."
 入居者,にゅうきょしゃ,Tenant,新しい入居者が今月から住み始めます。,The new tenant will start living here from this month.
 空室,くうしつ,Vacant room,このビルにはいくつか空室があります。,There are several vacant rooms in this building.
 管理会社,かんりがいしゃ,Management company,管理会社が建物のメンテナンスを行います。,The management company handles the maintenance of the building.
@@ -31,8 +31,8 @@
 物件情報,ぶっけんじょうほう,Property information,不動産サイトで物件情報を確認しました。,I checked the property information on the real estate website.
 内見,ないけん,Property viewing/inspection,明日、アパートの内見に行きます。,I will go view the apartment tomorrow.
 即入居,そくにゅうきょ,Available immediately,この部屋は即入居可能です。,This room is available immediately.
-新築,しんちく,Newly built,新築のマンションを購入しました。,I bought a newly-built condominium.
-中古,ちゅうこ,Pre-owned,中古の一戸建てを探しています。,I am looking for a pre-owned detached house.
+新築,しんちく,Newly built,新築の住宅には、最新のエコフレンドリーな技術が導入され、住む人の生活をより快適にしています。,"The newly constructed houses incorporate the latest eco-friendly technologies, making life more comfortable for residents."
+中古,ちゅうこ,Pre-owned,この中古の家は、リフォーム済みで新築同様の品質を備えています。,This second-hand house has been renovated and offers quality comparable to a new build.
 リノベーション,リノベーション,Renovation,リノベーション済みの物件を見に行きました。,I went to see a renovated property.
 オートロック,オートロック,Auto-lock (security system),オートロック付きのマンションに住んでいます。,I live in an apartment building with an auto-lock system.
 バルコニー,バルコニー,Balcony,バルコニーからの眺めが素晴らしいです。,The view from the balcony is wonderful.
@@ -60,7 +60,7 @@ IHクッキングヒーター,IHクッキングヒーター,Induction heating st
 住み替え,すみかえ,Moving to a new residence,来月、住み替えを予定しています。,I plan to move to a new residence next month.
 自主管理,じしゅかんり,Self-management (property managed by the owner),このアパートは自主管理です。,This apartment is managed directly by the owner.
 共用部分,きょうようぶぶん,Common areas,共用部分の掃除は管理会社が行います。,The management company cleans the common areas.
-住宅,じゅうたく,Housing/residence,新しい住宅を購入しました。,I bought a new residence.
+住宅,じゅうたく,Housing/residence,郊外の住宅は、広々とした庭付きで家族向けに最適です。,"Houses in the suburbs are ideal for families, offering spacious yards."
 住民,じゅうみん,Resident,この地域の住民は親切です。,The residents of this area are kind.
 取り壊し,とりこわし,Demolition,古い建物の取り壊しが始まりました。,The demolition of the old building has started.
 地所,じしょ,Land/estate,その地所は広大です。,That estate is vast.
@@ -71,7 +71,7 @@ IHクッキングヒーター,IHクッキングヒーター,Induction heating st
 法定更新,ほうていこうしん,Statutory renewal,契約の法定更新が必要です。,A statutory renewal of the contract is required.
 所有権,しょゆうけん,Ownership rights,この土地の所有権を取得しました。,I acquired ownership rights to this land.
 用途地域,ようとちいき,Zoning area,その地域は住宅用途地域です。,That area is zoned for residential use.
-土地,とち,Land,広い土地を購入しました。,I purchased a large parcel of land.
+土地,とち,Land,この土地は、自然環境に恵まれ、住宅建設に最適な場所です。,"This land, blessed with a rich natural environment, is an ideal location for building a house."
 建築基準法,けんちくきじゅんほう,Building standards law,この建物は建築基準法に従っています。,This building complies with the building standards law.
 防災設備,ぼうさいせつび,Disaster prevention equipment,このビルには最新の防災設備があります。,This building has the latest disaster prevention equipment.
 立地,りっち,Location,この店は立地が良いです。,This store has a good location.
@@ -81,14 +81,14 @@ IHクッキングヒーター,IHクッキングヒーター,Induction heating st
 契約更新,けいやくこうしん,Contract renewal,契約更新の手続きをしました。,I completed the contract renewal process.
 収益物件,しゅうえきぶっけん,Investment property,収益物件としてこのビルを購入しました。,I purchased this building as an investment property.
 賃料,ちんりょう,Rental fee,賃料は毎月末に支払います。,The rental fee is paid at the end of each month.
-土地所有者,とちしょゆうしゃ,Landowner,土地所有者と話し合いました。,I had a discussion with the landowner.
+土地所有者,とちしょゆうしゃ,Landowner,土地所有者は、地域開発に積極的に参加し、街の景観を向上させています。,"The landowners are actively participating in local development, enhancing the town's landscape."
 家主,やぬし,Homeowner/landlord,家主が修理を手配してくれました。,The landlord arranged for repairs.
 短期賃貸,たんきちんたい,Short-term rental,短期賃貸の物件を探しています。,I am looking for a short-term rental property.
 長期賃貸,ちょうきちんたい,Long-term rental,このアパートは長期賃貸が可能です。,This apartment is available for long-term rental.
 下見,したみ,Preliminary inspection/site visit,物件の下見に行きました。,I went for a preliminary inspection of the property.
-賃貸住宅,ちんたいじゅうたく,Rental housing,賃貸住宅を探しています。,I am looking for rental housing.
-賃貸物件,ちんたいぶっけん,Rental property,新しい賃貸物件を見つけました。,I found a new rental property.
-居住用,きょじゅうよう,Residential use,この建物は居住用です。,This building is for residential use.
+賃貸住宅,ちんたいじゅうたく,Rental housing,この賃貸住宅は、駅から徒歩5分という好立地で、若者や単身者に大人気です。,"This rental housing, located just a 5-minute walk from the station, is very popular among young people and singles."
+賃貸物件,ちんたいぶっけん,Rental property,この賃貸物件は、最新の設備が揃っていて、ペット可という条件も魅力です。,"This rental property is equipped with the latest amenities, and the pet-friendly condition is also appealing."
+居住用,きょじゅうよう,Residential use,このビルの一階は商業用で、上階は居住用に使われています。,"The first floor of this building is for commercial use, while the upper floors are for residential use."
 事務所,じむしょ,Office,新しい事務所に移転しました。,We moved to a new office.
 店舗,てんぽ,Store/shop,店舗の内装を改装しました。,We renovated the store's interior.
 倉庫,そうこ,Warehouse,商品は倉庫に保管されています。,The products are stored in the warehouse.
@@ -117,7 +117,7 @@ IHクッキングヒーター,IHクッキングヒーター,Induction heating st
 リフォーム,リフォーム,Renovation,私たちは家をリフォームして、キッチンとバスルームを新しくしました。,"We renovated the house, making the kitchen and bathroom new."
 照明,しょうめい,Lighting,照明を新しいLEDに変えました。,I changed the lighting to new LEDs.
 冷暖房,れいだんぼう,Air conditioning and heating,この部屋は冷暖房完備です。,This room is fully equipped with air conditioning and heating.
-防犯カメラ,ぼうはんカメラ,Security camera,防犯カメラが設置されています。,Security cameras are installed.
+防犯カメラ,ぼうはんカメラ,Security camera,アパートの入口と駐車場には防犯カメラが設置されており、住人の安全を確保しています。,Security cameras have been installed at the entrance and parking lot of the apartment to ensure the safety of the residents.
 鍵,かぎ,Key,玄関の鍵を忘れました。,I forgot the key to the entrance.
 玄関,げんかん,Entrance,玄関で靴を脱いでください。,Please take off your shoes at the entrance.
 外壁,がいへき,Exterior wall,外壁を塗り替えました。,We repainted the exterior wall.
@@ -128,40 +128,40 @@ IHクッキングヒーター,IHクッキングヒーター,Induction heating st
 礼金不要,れいきんふよう,No key money required,このアパートは礼金不要です。,No key money is required for this apartment.
 敷金不要,しききんふよう,No security deposit required,この物件は敷金不要です。,No security deposit is required for this property.
 定期借家契約,ていきしゃくやけいやく,Fixed-term lease agreement,定期借家契約を結びました。,I signed a fixed-term lease agreement.
-定住,ていじゅう,Permanent residence,ここを定住の地に決めました。,I decided to make this my permanent residence.
-借地権,しゃくちけん,Lease; Leasehold rights,借地権を取得しました。,I acquired the lease.
-地上権,ちじょうけん,Surface rights (rights to build a house on land owned by someone else),地上権の契約を更新しました。,I renewed the surface rights contract.
+定住,ていじゅう,Permanent residence,この地域は自然が豊かで、定住に向いていると評判です。,"This area is known for its rich nature, making it popular for permanent residency."
+借地権,しゃくちけん,Lease; Leasehold rights,この土地に家を建てるためには、借地権を取得する必要があります。,"To build a house on this land, you need to acquire the right to lease the land."
+地上権,ちじょうけん,Surface rights (rights to build a house on land owned by someone else),この不動産には、地上権が設定されており、長期間の使用が保証されています。,"This property has surface rights established, ensuring long-term use."
 区分所有,くぶんしょゆう,Condominium ownership,区分所有でマンションを購入しました。,I purchased a condominium with ownership rights.
 分譲,ぶんじょう,Selling (real-estate) lots,新しい分譲地が販売されています。,New lots are being sold.
-分譲マンション,ぶんじょうマンション,Condominium for sale,分譲マンションを見学しました。,I toured a condominium for sale.
+分譲マンション,ぶんじょうマンション,Condominium for sale,この分譲マンションは、セキュリティが高く、子育て世代に人気があります。,This condominium for sale is known for its high security and is popular among families with children.
 購入,こうにゅう,Purchase,新しい家を購入しました。,I purchased a new house.
 売却,ばいきゃく,Sale,古い家を売却しました。,I sold my old house.
-価格交渉,かかくこうしょう,Price negotiation,価格交渉がうまくいきました。,The price negotiation went well.
+価格交渉,かかくこうしょう,Price negotiation,購入前に、価格交渉を行って少しでも安く購入したいと思っています。,"Before buying, I want to engage in price negotiation to buy it as cheaply as possible."
 賃料交渉,ちんりょうこうしょう,Rent negotiation,賃料交渉で値下げを成功しました。,I successfully negotiated a rent reduction.
 競売,きょうばい,Auction,競売で物件を買いました。,I bought a property at an auction.
-入札,にゅうさつ,Bid,入札に参加しました。,I participated in the bidding.
+入札,にゅうさつ,Bid,この物件の入札は非常に競争が激しく、最高額を提示した人が落札しました。,"The bidding for this property was extremely competitive, and the person who offered the highest amount won the auction."
 住宅地,じゅうたくち,Residential area,この住宅地はとても静かです。,This residential area is very quiet.
 商業地,しょうぎょうち,Commercial area,商業地に新しい店を開きました。,I opened a new store in the commercial area.
 工業地,こうぎょうち,Industrial area,工業地で工場を建設中です。,A factory is under construction in the industrial area.
-再開発,さいかいはつ,Redevelopment,都市の再開発が進んでいます。,Urban redevelopment is underway.
+再開発,さいかいはつ,Redevelopment,市の中心部では、再開発が行われており、新しい商業施設や住宅が建設されています。,"In the city center, redevelopment is taking place, with new commercial facilities and residences being constructed."
 新興住宅地,しんこうじゅうたくち,New residential area,新興住宅地で家を買いました。,I bought a house in a new residential area.
 住環境,じゅうかんきょう,Living environment,住環境が良い場所を探しています。,I am looking for a place with a good living environment.
 騒音問題,そうおんもんだい,Noise issue,騒音問題で苦情が出ています。,There have been complaints about noise issues.
-境界線,きょうかいせん,Boundary line,境界線を確認しました。,I checked the boundary line.
+境界線,きょうかいせん,Boundary line,隣地との境界線が明確になっていないため、土地の所有権について議論が起こっています。,"Because the boundary line with the neighboring land is not clear, there's a dispute regarding land ownership."
 地盤,じばん,Foundation; ground,このビルの地盤が弱いので、地震が来ると倒れる可能性があります。,"The foundation of this building is weak, so there's a possibility it could collapse during an earthquake."
-地震対策,じしんたいさく,Earthquake preparedness,地震対策を強化しました。,We strengthened earthquake preparedness.
+地震対策,じしんたいさく,Earthquake preparedness,この地域では、地震対策として建物の耐震補強が行われています。,"In this area, seismic reinforcement of buildings is being carried out as a measure against earthquakes."
 消防設備,しょうぼうせつび,Firefighting equipment,消防設備の点検を行いました。,We conducted inspections of the firefighting equipment.
-避難経路,ひなんけいろ,Evacuation route,避難経路を確認しました。,I confirmed the evacuation route.
+避難経路,ひなんけいろ,Evacuation route,マンションの各階には、明確な避難経路が示され、火災や地震の際に迅速に避難できるようになっています。,"Each floor of the apartment building has clearly indicated evacuation routes, allowing for quick evacuation in case of fire or an earthquake."
 共用施設,きょうようしせつ,Communal facilities,共用施設が充実しています。,The communal facilities are well-equipped.
 管理組合,かんりくみあい,Management association,管理組合の会議に出席しました。,I attended the management association meeting.
 修繕積立金,しゅうぜんつみたてきん,Maintenance fee; reserve fund for building repairs,修繕積立金を毎月支払います。,I pay the maintenance fee monthly.
 住宅手当,じゅうたくてあて,Housing allowance,会社から住宅手当を受け取っています。,I receive a housing allowance from my company.
-引っ越し業者,ひっこしぎょうしゃ,Moving company,引っ越し業者に依頼しました。,I hired a moving company.
-荷造り,にづくり,Packing,荷造りが終わりました。,I finished packing.
+引っ越し業者,ひっこしぎょうしゃ,Moving company,引っ越し業者を選ぶ際は、サービス内容や料金だけでなく、口コミも参考にすることが重要です。,"When choosing a moving company, it's important to consider not only the services and fees but also the reviews."
+荷造り,にづくり,Packing,引越しに備えて、荷造りを効率よく行うためには、事前にリストを作るのが有効です。,"To pack efficiently for a move, it's effective to make a list in advance."
 交通量,こうつうりょう,Traffic volume,この通りの交通量が多いです。,There is a high traffic volume on this street.
-公共交通機関,こうきょうこうつうきかん,Public transportation,公共交通機関を利用します。,I use public transportation.
+公共交通機関,こうきょうこうつうきかん,Public transportation,この地区は公共交通機関が発達しており、車を持たなくても生活が便利です。,"This district has well-developed public transportation, making life convenient even without a car."
 駅近,えきちか,Close to station,駅近のアパートを探しています。,I am looking for an apartment close to the station.
-バス停,バスてい,Bus stop,バス停はすぐそこにあります。,The bus stop is right there.
+バス停,バスてい,Bus stop,家の近くにバス停があるので、通勤や通学が非常に楽になります。,Having a bus stop near the house makes commuting to work or school much easier.
 周辺施設,しゅうへんしせつ,Nearby facilities,周辺施設が便利です。,The nearby facilities are convenient.
 商店街,しょうてんがい,Shopping street,商店街で買い物をしました。,I did some shopping on the shopping street.
 スーパー,スーパー,Supermarket,スーパーで食材を買いました。,I bought groceries at the supermarket.
@@ -169,16 +169,16 @@ IHクッキングヒーター,IHクッキングヒーター,Induction heating st
 学区,がっく,School district,この地域は評判の良い学区です。,This area is in a well-regarded school district.
 保証金,ほしょうきん,Deposit,契約には保証金が必要です。,A deposit is required for the contract.
 手付金,てつけきん,Deposit; good-faith deposit,新しい家を買うときに、手付金として100万円を支払いました。,"When buying a new house, I paid one million yen as a deposit."
-分譲地,ぶんじょうち,Land for sale,新しい分譲地を見に行きました。,I went to see the new land for sale.
-開発用地,かいはつようち,Development land,開発用地を購入しました。,I purchased development land.
-建売住宅,たてうりじゅうたく,Ready-made house,建売住宅を選びました。,I chose a ready-made house.
+分譲地,ぶんじょうち,Land for sale,郊外の分譲地は、自然に囲まれていて、家族でゆったりとした生活を楽しむのに最適です。,"Suburban lots for sale are surrounded by nature, making them ideal for a relaxed family life."
+開発用地,かいはつようち,Development land,この開発用地は、新しい商業施設や住宅地を建設する計画が立てられています。,This land for development is planned for the construction of new commercial facilities and residential areas.
+建売住宅,たてうりじゅうたく,Ready-made house,建売住宅は、すぐに引っ越しが可能で、手軽にマイホームを持つことができる選択肢です。,Pre-built houses are an option for those who want to move in quickly and easily own a home.
 中古住宅,ちゅうこじゅうたく,Existing home,中古住宅をリフォームしました。,I renovated an existing home.
-設計図,せっけいず,Blueprint,設計図を確認しました。,I reviewed the blueprint.
-建築確認,けんちくかくにん,Building certification,建築確認が下りました。,Building certification has been granted.
-着工,ちゃっこう,Construction start,来月から着工します。,Construction will start next month.
-竣工,しゅんこう,Completion of construction,竣工が予定より遅れています。,The completion of construction is delayed.
-引き渡し,ひきわたし,Handover,引き渡しの日が決まりました。,The handover date has been set.
-入居手続き,にゅうきょてつづき,Move-in procedures,入居手続きを完了しました。,I completed the move-in procedures.
-退去手続き,たいきょてつづき,Move-out procedures,退去手続きを進めています。,I am proceeding with the move-out procedures.
-明け渡し,あけわたし,Vacating,明け渡しの準備をしています。,I am preparing for vacating.
-短縮契約,たんしゅくけいやく,Shortened contract,短縮契約を締結しました。,I entered into a shortened contract.
+設計図,せっけいず,Blueprint,設計図を見て、どのように内装やレイアウトを計画するかを話し合いました。,We discussed how to plan the interior and layout based on the architectural drawings.
+建築確認,けんちくかくにん,Building certification; building permit,建築確認が完了したら、ようやく工事が始まるので、それまでに全ての準備を整えておく必要があります。,"Once the building permit is approved, construction can finally start, so all preparations must be completed by then."
+着工,ちゃっこう,Construction start,来月から着工が始まる予定なので、最終的なプランを確認する必要があります。,"Construction is scheduled to start next month, so we need to confirm the final plan."
+竣工,しゅんこう,Completion of construction,竣工式では、長い建設期間を経て完成した新しいビルがお披露目されました。,"At the completion ceremony, the new building, which took a long construction period, was unveiled."
+引き渡し,ひきわたし,Handover,引き渡しは来週で、それまでに全ての検査と最終確認が必要です。,"The handover is next week, so all inspections and final checks must be done by then."
+入居手続き,にゅうきょてつづき,Move-in procedures,入居手続きはスムーズに進んでおり、来月から新しいアパートで生活が始まる予定です。,"The move-in procedures are going smoothly, and we plan to start living in the new apartment next month."
+退去手続き,たいきょてつづき,Move-out procedures,退去手続きには、清掃や修繕の確認が含まれるため、時間と手間がかかります。,"The moving-out process includes checking for cleaning and repairs, which takes time and effort."
+明け渡し,あけわたし,Vacating,部屋の明け渡しは来月末で、その前に全ての荷物を引き払う必要があります。,"The surrender of the room is at the end of next month, so all belongings must be removed beforehand."
+短縮契約,たんしゅくけいやく,Shortened contract,短縮契約を結んだことで、試用期間が3ヶ月から1ヶ月に短縮されました。,"By entering into a shortened contract, the probationary period was reduced from three months to one month."
