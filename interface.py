@@ -26,17 +26,26 @@ def main():
     import csv
 
     parser = argparse.ArgumentParser()
-    parser.add_argument("csv", help="csv file to parse")
+    parser.add_argument("--vocab", help="csv vocab file to parse")
+    parser.add_argument("--grammar", help="csv grammar file to parse")
     args = parser.parse_args()
 
-    terms = set() # Used to check for duplicates.
-    with open(args.csv, "r") as f:
-        reader = csv.reader(f)
-        for row in reader:
-            v = Vocabulary.from_list(row)
-            assert v.vocab not in terms
-            terms.add(v.vocab)
-            # do something else with `v`
+    if args.vocab:
+        terms = set() # Used to check for duplicates.
+        with open(args.vocab, "r") as f:
+            reader = csv.reader(f)
+            for row in reader:
+                v = Vocabulary.from_list(row)
+                assert v.vocab not in terms
+                terms.add(v.vocab)
+                # do something else with `v`
+    if args.grammar:
+        terms = set() # Used to check for duplicates.
+        with open(args.grammar, "r") as f:
+            reader = csv.reader(f)
+            for row in reader:
+                assert len(row) == 6
+
 
 if __name__ == "__main__":
     main()
