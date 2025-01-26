@@ -18,12 +18,35 @@ Each row contains the following elements.
 1. Japanese sentence
 1. English sentence
 
+## HTML Styling
+
+The Japanese sentence may contain furigana embedded in
+[ruby](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ruby) elements. Assuming
+the Japanese sentence is a child of
+
+```html
+<div class="front">...</div>
+```
+
+then you can hide the furigana if desired via
+
+```css
+.front rt {
+  display: none;
+}
+```
+
+This way you can hide furigana in certain presentations and render it in others.
+
 ## Modification
 
 You can make modifications to lists manually, or, for an example of working with lists
 programmatically, see [interface.py](./interface.py). If building a new list
 programmatically from scratch, use `Vocabulary` from `interface.py` to conform to the
 standard schema.
+
+Vet new lists by parsing them with the checked-in implementation of `interface.py` to
+make sure there are no parsing errors.
 
 ## Lists
 
