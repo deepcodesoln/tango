@@ -50,6 +50,8 @@ make sure there are no parsing errors.
 
 ## Lists
 
+1. [computer\_hardware\_circuits.csv](./lists/computer_hardware_circuits.csv): a list of
+   vocabulary relating to computer hardware and circuitry
 1. [core\_2k.csv](./lists/core_2k.csv): a modified version of
    [コア2.3k v3](https://anacreondjt.gitlab.io/docs/coredeck/), itself a modified
    version of [core6000](https://core6000.neocities.org/); adjusted
