@@ -50,6 +50,8 @@ make sure there are no parsing errors.
 
 ## Lists
 
+1. [artificial\_intelligence.csv](./lists/artificial_intelligence.csv): a list of
+   vocabulary related to artificial intelligence and neural networks
 1. [computer\_hardware\_circuits.csv](./lists/computer_hardware_circuits.csv): a list of
    vocabulary relating to computer hardware and circuitry
 1. [core\_2k.csv](./lists/core_2k.csv): a modified version of
