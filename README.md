@@ -101,6 +101,9 @@ Please abide by the following rules when contributing content:
    <ruby>不動産投資<rt>ふどうさんとうし</rt></ruby>
    ```
 
+`python3 interface.py --fix [...]` will help you minimize quoting and replace
+`<b>` with `<strong>`.
+
 ## License
 
 [MIT license](./LICENSE).

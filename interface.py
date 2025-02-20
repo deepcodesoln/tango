@@ -24,19 +24,33 @@ class Vocabulary:
 def main():
     import argparse
     import csv
+    import sys
 
     parser = argparse.ArgumentParser()
     parser.add_argument("csv", help="csv file to parse")
+    parser.add_argument(
+        "--fix",
+        help="minimize quoting, fix bold styling, print new rows to stdout",
+        action="store_true"
+    )
     args = parser.parse_args()
 
     terms = set() # Used to check for duplicates.
+    vocab = []
     with open(args.csv, "r") as f:
         reader = csv.reader(f)
         for row in reader:
             v = Vocabulary.from_list(row)
             assert v.vocab not in terms
             terms.add(v.vocab)
-            # do something else with `v`
+            vocab.append(v)
+
+    if args.fix:
+        writer = csv.writer(sys.stdout, dialect="unix", quoting=csv.QUOTE_MINIMAL)
+        for v in vocab:
+            v.ja_sentence = v.ja_sentence.replace("<b>", "<strong>")
+            v.ja_sentence = v.ja_sentence.replace("</b>", "</strong>")
+            writer.writerow(v.to_list())
 
 if __name__ == "__main__":
     main()
