@@ -38,16 +38,6 @@ then you can hide the furigana if desired via
 
 This way you can hide furigana in certain presentations and render it in others.
 
-## Modification
-
-You can make modifications to lists manually, or, for an example of working with lists
-programmatically, see [interface.py](./interface.py). If building a new list
-programmatically from scratch, use `Vocabulary` from `interface.py` to conform to the
-standard schema.
-
-Vet new lists by parsing them with the checked-in implementation of `interface.py` to
-make sure there are no parsing errors.
-
 ## Lists
 
 1. [artificial\_intelligence.csv](./lists/artificial_intelligence.csv): a list of
@@ -70,6 +60,46 @@ make sure there are no parsing errors.
 1. [software\_engineering.csv](./lists/software_engineering.csv): a list of vocabulary
    relating to software engineering; many terms are in kana, but it's useful to see
    how such terms might be used in context
+
+## Contributing
+
+You can make modifications to lists manually, or, for an example of working with lists
+programmatically, see [interface.py](./interface.py). If building a new list
+programmatically from scratch, use `Vocabulary` from `interface.py` to conform to the
+standard schema.
+
+Vet new lists by parsing them with the checked-in implementation of `interface.py` to
+make sure there are no parsing errors.
+
+Please abide by the following rules when contributing content:
+
+1. Quoting shall be
+   [minimal](https://docs.python.org/3.13/library/csv.html#csv.QUOTE_MINIMAL).
+1. Any kana used in a vocabulary term shall be repeated verbatim in the kana
+   representation of the term. In other words, given the vocabulary term
+   書き込み, its kana representation shall be かきこみ. Given the vocabulary
+   term テレビ, its kana representation shall be テレビ.
+1. Standalone kana words should not be annotated with furigana. For example,
+   テレビ should receive no annotation. Kana used in a term should be
+   annotated together with the term, for example for 書き込み:
+
+   ```html
+   <ruby>書き込み<rt>かきこみ</rt></ruby>
+   ```
+1. You do not need to style vocabulary terms used in their example sentences
+   as bold. However, if you do style them, use `<strong>` instead of `<b>`.
+1. Example sentences should be sophisticated enough to use the term in
+   meaningful context. For example, if the term is 家, the sentence,
+   "家を買った。" tells you nothing about what 家 means.
+   "家族と一緒に家に住んでいます。" is more appropriate.
+1. Furigana annotations for consecutive kanji should be grouped into a single
+   annotation. However, it is also fine to split annotation at word boundaries.
+   For example, 不動産投資 can be annotated in either way:
+
+   ```html
+   <ruby>不動産<rt>ふどうさん</rt></ruby><ruby>投資<rt>とうし</rt></ruby>
+   <ruby>不動産投資<rt>ふどうさんとうし</rt></ruby>
+   ```
 
 ## License
 
