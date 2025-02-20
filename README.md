@@ -48,6 +48,8 @@ This way you can hide furigana in certain presentations and render it in others.
    [コア2.3k v3](https://anacreondjt.gitlab.io/docs/coredeck/), itself a modified
    version of [core6000](https://core6000.neocities.org/); adjusted
    definitions, formatting, removed images and audio
+1. [finance\_investing.csv](./lists/finance_investing.csv): a list of terms related to
+   finance and investing
 1. [mathematics.csv](./lists/mathematics.csv): a list of vocabulary related to
    mathematics
 1. [population\_decrease.csv](./lists/population_decrease.csv): a list of vocabulary
