@@ -52,6 +52,8 @@ This way you can hide furigana in certain presentations and render it in others.
    finance and investing
 1. [mathematics.csv](./lists/mathematics.csv): a list of vocabulary related to
    mathematics
+1. [personality.csv](./lists/personality.csv): a list of vocabulary related to
+   personality and character
 1. [population\_decrease.csv](./lists/population_decrease.csv): a list of vocabulary
    relating to the phenomenon of population decrease
 1. [real\_estate\_housing.csv](./lists/real_estate_housing.csv): a list of vocabulary
