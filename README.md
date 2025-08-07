@@ -40,6 +40,9 @@ This way you can hide furigana in certain presentations and render it in others.
 
 ## Lists
 
+1. [500\_verbs.csv](./lists/500_verbs.csv): a list of roughly 500 mostly-common
+   Japanese verbs; this is a curated version of the free list provided by
+   [linguajunkie](https://www.linguajunkie.com/japanese/japanese-verbs-list)
 1. [artificial\_intelligence.csv](./lists/artificial_intelligence.csv): a list of
    vocabulary related to artificial intelligence and neural networks
 1. [computer\_hardware\_circuits.csv](./lists/computer_hardware_circuits.csv): a list of
