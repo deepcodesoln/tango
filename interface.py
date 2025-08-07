@@ -39,9 +39,11 @@ def main():
     vocab = []
     with open(args.csv, "r") as f:
         reader = csv.reader(f)
-        for row in reader:
+        for row_num, row in enumerate(reader):
             v = Vocabulary.from_list(row)
-            assert v.vocab not in terms
+            if v.vocab in terms:
+                print(f"error: duplicate term on line {row_num + 1}: {v.vocab}")
+                assert False
             terms.add(v.vocab)
             vocab.append(v)
 
